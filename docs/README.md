@@ -1,11 +1,11 @@
-># Full Stack Tech Exam - Submission Template
+># Full Stack Tech Exam - Readme Template
 
-**Student Name:** [Your Name Here]
+**Name:** [Your Name Here]
 
 ## 🔗 Required Links
 
-| Component | Link | Status |
-|-----------|------|---------|
+| Component | Link | 
+|-----------|------|
 | **GitHub Repository** | [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name) | 
 | **GitHub Pages (docs/)** | [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/) | 
 | **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
@@ -26,7 +26,7 @@
 > for the sake of time, you may can approach these steps in the order you choose. 
 
 ### 1️⃣ access the codebase
-- using the [stater code base repository]()
+- using the [stater code base repository](https://github.com/barrycumbie/full-stack-tech-exam)
 - bring the code into your own repository via `fork` `import` or `copy/paste`
 
 ### 2️⃣ configure your repository
@@ -74,3 +74,5 @@
 - include described links on your `readme` to 
 	- the `issue`, `pull request`, `milestone` & successful `action`
 
+## Submission
+- a link to your repository. 
