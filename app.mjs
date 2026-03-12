@@ -22,7 +22,19 @@ const client = new MongoClient(uri, {
   }
 });
 
-const yourNameAndEmoji = { name: 'Cohen', emoji: '🦭' }; //don't use my frog. 
+async function connectToMongo() {
+  try {
+    await client.connect();
+    await client.db("admin").command({ ping: 1 });
+    console.log("Pinged your deployment. You successfully connected to MongoDB!");
+  } catch (error) {
+    console.error("Error connecting to MongoDB:", error);
+  }
+}
+connectToMongo();
+
+
+const yourNameAndEmoji = { name: "Cohen", emoji: "🦭" }; //don't use my frog. 
 
 
 //app instantiations
