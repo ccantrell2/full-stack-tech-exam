@@ -9,7 +9,7 @@
 | **GitHub Repository** | [Github Repo](https://github.com/ccantrell2/full-stack-tech-exam) | 
 | **GitHub Pages (docs/)** | [Github Pages](https://ccantrell2/full-stack-tech-exam) | 
 | **Dev Server (Render)** | [Render](https://full-stack-tech-exam-hlav.onrender.com) | 
-| **Production Server (GCP)** | [Production](http://34.73.23.209:3000) | 
+| **Production Server (GCP)** | [Production](http://34.73.23.209) | 
 | **Issue** | [Issue](https://github.com/ccantrell2/full-stack-tech-exam/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
 | **Milestone** | [Milestone](https://github.com/ccantrell2/full-stack-tech-exam/milestone/1) | 
