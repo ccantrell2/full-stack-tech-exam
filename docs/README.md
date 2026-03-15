@@ -7,7 +7,7 @@
 | Component | Link | 
 |-----------|------|
 | **GitHub Repository** | [Github Repo](https://github.com/ccantrell2/full-stack-tech-exam) | 
-| **GitHub Pages (docs/)** | [Github Pages](https://ccantrell2/full-stack-tech-exam) | 
+| **GitHub Pages (docs/)** | [Github Pages](https://github.com/ccantrell2/full-stack-tech-exam/tree/main/docs) | 
 | **Dev Server (Render)** | [Render](https://full-stack-tech-exam-hlav.onrender.com) | 
 | **Production Server (GCP)** | [Production](http://34.73.23.209) | 
 | **Issue** | [Issue](https://github.com/ccantrell2/full-stack-tech-exam/issues/1) | 
